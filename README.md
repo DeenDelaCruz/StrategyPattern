@@ -21,6 +21,7 @@ B.  AttackStrategy
 
 Refactor the existing codes and provide the UML Diagram:
 
+<pre>
 public class Character {
     private String type;
 
@@ -50,6 +51,7 @@ public class Character {
             System.out.println("Using a shield to defend!"");
         }
     }
-
+}
+</pre>
 UML Diagram:
 ![alt text](<UML Diagram.png>)
